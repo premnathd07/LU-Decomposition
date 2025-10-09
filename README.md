@@ -37,7 +37,9 @@ RegisterNumber: 25006843
 */
 ```
 
-## Output:<img width="1202" height="513" alt="Screenshot 2025-10-09 232827" src="https://github.com/user-attachments/assets/b9115cab-3fb1-4ee5-9a13-ac16586ab288" />
+## Output:
+<img width="1202" height="513" alt="Screenshot 2025-10-09 232827" src="https://github.com/user-attachments/assets/b9115cab-3fb1-4ee5-9a13-ac16586ab288" />
+<img width="1225" height="321" alt="Screenshot 2025-10-09 232929" src="https://github.com/user-attachments/assets/0dddee2d-541b-4941-afa3-8688356f6bd7" />
 
 
 ![lu decomposition]()
