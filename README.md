@@ -18,27 +18,25 @@ To write a program to find the LU Decomposition of a matrix.
 ## Program:1
 (i) To find the L and U matrix
 ```<
-img width="686" height="246" alt="Screenshot 2025-10-09 232743" src="https://github.com/user-attachments/assets/a9965f33-e731-4bcf-a9ee-818ccc1e77c1" />
 
-/*
-Program to find the L and U matrix.
-Developed by:PREM NATH D 
-RegisterNumber: 25006843
+
 */
 ```
-(ii) To find the LU Decomposition of a matrix
-```
-<img width="670" height="334" alt="Screenshot 2025-10-09 232906" src="https://github.com/user-attachments/assets/0e983157-29b7-42fe-9d43-f11b9a4486e4" />
+<img width="635" height="253" alt="Screenshot 2025-10-17 000605" src="https://github.com/user-attachments/assets/bca70e66-bea0-4248-9d28-bd887ed353af" />
 
-/*
-Program to find the LU Decomposition of a matrix.
-Developed by:PREM NATH D 
-RegisterNumber: 25006843
-*/
-```
+program:2
+
+<img width="658" height="344" alt="image" src="https://github.com/user-attachments/assets/5e441e08-f82e-4149-ae3e-053a1e11653a" />
 
 ## Output:
+
+output 1
+
 <img width="1202" height="513" alt="Screenshot 2025-10-09 232827" src="https://github.com/user-attachments/assets/b9115cab-3fb1-4ee5-9a13-ac16586ab288" />
+
+output 2
+
+
 <img width="1225" height="321" alt="Screenshot 2025-10-09 232929" src="https://github.com/user-attachments/assets/0dddee2d-541b-4941-afa3-8688356f6bd7" />
 
 
